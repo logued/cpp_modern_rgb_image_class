@@ -1,0 +1,3 @@
+C:/Users/logued/CLionProjects/SFML/cpp-modern-rgb-image-class/cmake-build-debug/CMakeFiles/cpp_modern_rgb_image_class.dir
+C:/Users/logued/CLionProjects/SFML/cpp-modern-rgb-image-class/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/logued/CLionProjects/SFML/cpp-modern-rgb-image-class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
